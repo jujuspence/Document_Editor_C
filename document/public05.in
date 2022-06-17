@@ -1,0 +1,7 @@
+load_file doc1.txt
+save_document public05.file.tmp
+replace_text "CS"   "Computer Hocus"
+load_file doc2.txt
+print_document
+
+~           

@@ -1,0 +1,11 @@
+load_file doc1.txt
+print document
+print_document main
+  print_document
+replace_text "CS"
+add_paragraph_after 10
+highlight_text "every"
+print_document
+add_line_after 1 6 *  why doesn't my code work?
+exit
+~             
